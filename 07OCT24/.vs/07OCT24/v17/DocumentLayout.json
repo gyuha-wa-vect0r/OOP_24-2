@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uD559\uAD50\\2\uD559\uB144\\2\uD559\uAE30\\\uC815\uBCF4\uD1B5\uC2E0\uACF5\uD559 \uC804\uACF5\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D(C\u002B\u002B)\\6\uC8FC\uCC28\\Project\\07OCT24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2410BF05-676E-489E-8387-F675E6393AB5}|07OCT24.vcxproj|D:\\\uD559\uAD50\\2\uD559\uB144\\2\uD559\uAE30\\\uC815\uBCF4\uD1B5\uC2E0\uACF5\uD559 \uC804\uACF5\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D(C\u002B\u002B)\\6\uC8FC\uCC28\\Project\\07OCT24\\07OCT24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2410BF05-676E-489E-8387-F675E6393AB5}|07OCT24.vcxproj|solutionrelative:07OCT24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2410BF05-676E-489E-8387-F675E6393AB5}|07OCT24.vcxproj|D:\\\uD559\uAD50\\2\uD559\uB144\\2\uD559\uAE30\\\uC815\uBCF4\uD1B5\uC2E0\uACF5\uD559 \uC804\uACF5\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D(C\u002B\u002B)\\6\uC8FC\uCC28\\Project\\07OCT24\\ram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2410BF05-676E-489E-8387-F675E6393AB5}|07OCT24.vcxproj|solutionrelative:ram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ram.cpp",
+              "DocumentMoniker": "D:\\\uD559\uAD50\\2\uD559\uB144\\2\uD559\uAE30\\\uC815\uBCF4\uD1B5\uC2E0\uACF5\uD559 \uC804\uACF5\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D(C\u002B\u002B)\\6\uC8FC\uCC28\\Project\\07OCT24\\ram.cpp",
+              "RelativeDocumentMoniker": "ram.cpp",
+              "ToolTip": "D:\\\uD559\uAD50\\2\uD559\uB144\\2\uD559\uAE30\\\uC815\uBCF4\uD1B5\uC2E0\uACF5\uD559 \uC804\uACF5\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D(C\u002B\u002B)\\6\uC8FC\uCC28\\Project\\07OCT24\\ram.cpp",
+              "RelativeToolTip": "ram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T08:11:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "07OCT24.cpp",
+              "DocumentMoniker": "D:\\\uD559\uAD50\\2\uD559\uB144\\2\uD559\uAE30\\\uC815\uBCF4\uD1B5\uC2E0\uACF5\uD559 \uC804\uACF5\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D(C\u002B\u002B)\\6\uC8FC\uCC28\\Project\\07OCT24\\07OCT24.cpp",
+              "RelativeDocumentMoniker": "07OCT24.cpp",
+              "ToolTip": "D:\\\uD559\uAD50\\2\uD559\uB144\\2\uD559\uAE30\\\uC815\uBCF4\uD1B5\uC2E0\uACF5\uD559 \uC804\uACF5\\\uAC1D\uCCB4\uC9C0\uD5A5 \uD504\uB85C\uADF8\uB798\uBC0D(C\u002B\u002B)\\6\uC8FC\uCC28\\Project\\07OCT24\\07OCT24.cpp",
+              "RelativeToolTip": "07OCT24.cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T07:04:55.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
