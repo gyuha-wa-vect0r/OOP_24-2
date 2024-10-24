@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1B62D8-BB4D-4862-A333-AFDFEF021CDF}|seangsungjaAndSomyeouljaAndSeperateCompile.vcxproj|C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\seangsungjaAndSomyeouljaAndSeperateCompile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B1B62D8-BB4D-4862-A333-AFDFEF021CDF}|seangsungjaAndSomyeouljaAndSeperateCompile.vcxproj|solutionrelative:seangsungjaAndSomyeouljaAndSeperateCompile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1B62D8-BB4D-4862-A333-AFDFEF021CDF}|seangsungjaAndSomyeouljaAndSeperateCompile.vcxproj|C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B1B62D8-BB4D-4862-A333-AFDFEF021CDF}|seangsungjaAndSomyeouljaAndSeperateCompile.vcxproj|solutionrelative:add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1B62D8-BB4D-4862-A333-AFDFEF021CDF}|seangsungjaAndSomyeouljaAndSeperateCompile.vcxproj|C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\cal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B1B62D8-BB4D-4862-A333-AFDFEF021CDF}|seangsungjaAndSomyeouljaAndSeperateCompile.vcxproj|solutionrelative:cal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cal.cpp",
+              "DocumentMoniker": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\cal.cpp",
+              "RelativeDocumentMoniker": "cal.cpp",
+              "ToolTip": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\cal.cpp",
+              "RelativeToolTip": "cal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T17:38:12.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.h",
+              "DocumentMoniker": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\add.h",
+              "RelativeDocumentMoniker": "add.h",
+              "ToolTip": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\add.h",
+              "RelativeToolTip": "add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T17:34:09.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "seangsungjaAndSomyeouljaAndSeperateCompile.cpp",
+              "DocumentMoniker": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\seangsungjaAndSomyeouljaAndSeperateCompile.cpp",
+              "RelativeDocumentMoniker": "seangsungjaAndSomyeouljaAndSeperateCompile.cpp",
+              "ToolTip": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\seangsungjaAndSomyeouljaAndSeperateCompile\\seangsungjaAndSomyeouljaAndSeperateCompile.cpp*",
+              "RelativeToolTip": "seangsungjaAndSomyeouljaAndSeperateCompile.cpp*",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwGAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T16:50:47.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

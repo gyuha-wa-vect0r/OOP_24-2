@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B016B-1AFE-4E89-852F-63F3A6CF6B3F}|accesswhoAndConstAndStatic.vcxproj|C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\ch6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C1B016B-1AFE-4E89-852F-63F3A6CF6B3F}|accesswhoAndConstAndStatic.vcxproj|solutionrelative:ch6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B016B-1AFE-4E89-852F-63F3A6CF6B3F}|accesswhoAndConstAndStatic.vcxproj|C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C1B016B-1AFE-4E89-852F-63F3A6CF6B3F}|accesswhoAndConstAndStatic.vcxproj|solutionrelative:func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B016B-1AFE-4E89-852F-63F3A6CF6B3F}|accesswhoAndConstAndStatic.vcxproj|C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\ram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C1B016B-1AFE-4E89-852F-63F3A6CF6B3F}|accesswhoAndConstAndStatic.vcxproj|solutionrelative:ram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ram.h",
+              "DocumentMoniker": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\ram.h",
+              "RelativeDocumentMoniker": "ram.h",
+              "ToolTip": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\ram.h",
+              "RelativeToolTip": "ram.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T18:17:18.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "func.cpp",
+              "DocumentMoniker": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\func.cpp",
+              "RelativeDocumentMoniker": "func.cpp",
+              "ToolTip": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\func.cpp",
+              "RelativeToolTip": "func.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T18:18:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ch6.cpp",
+              "DocumentMoniker": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\ch6.cpp",
+              "RelativeDocumentMoniker": "ch6.cpp",
+              "ToolTip": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\accesswhoAndConstAndStatic\\ch6.cpp",
+              "RelativeToolTip": "ch6.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T18:06:04.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

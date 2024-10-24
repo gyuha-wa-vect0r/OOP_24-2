@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\pointerAndReference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E82746-D62D-468B-9258-B959F1527AD2}|pointerAndReference.vcxproj|C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\pointerAndReference\\pointerAndReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68E82746-D62D-468B-9258-B959F1527AD2}|pointerAndReference.vcxproj|solutionrelative:pointerAndReference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointerAndReference.cpp",
+              "DocumentMoniker": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\pointerAndReference\\pointerAndReference.cpp",
+              "RelativeDocumentMoniker": "pointerAndReference.cpp",
+              "ToolTip": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\pointerAndReference\\pointerAndReference.cpp*",
+              "RelativeToolTip": "pointerAndReference.cpp*",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAwwO4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T07:15:59.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

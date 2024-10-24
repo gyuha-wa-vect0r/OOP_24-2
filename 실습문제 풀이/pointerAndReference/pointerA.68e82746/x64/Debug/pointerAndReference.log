@@ -1,0 +1,8 @@
+﻿  pointerAndReference.cpp
+C:\Users\GYUHA LEE\Documents\GitHub\OOP_24-2\실습문제 풀이\pointerAndReference\pointerAndReference.cpp(228,50): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+C:\Users\GYUHA LEE\Documents\GitHub\OOP_24-2\실습문제 풀이\pointerAndReference\pointerAndReference.cpp(229,12): error C2446: '==': 'const char [2]'에서 'int'(으)로 변환되지 않았습니다.
+      C:\Users\GYUHA LEE\Documents\GitHub\OOP_24-2\실습문제 풀이\pointerAndReference\pointerAndReference.cpp(229,15):
+      이 변환이 가능한 컨텍스트가 없습니다.
+  
+C:\Users\GYUHA LEE\Documents\GitHub\OOP_24-2\실습문제 풀이\pointerAndReference\pointerAndReference.cpp(230,11): error C2440: 'return': 'int'에서 'char &'(으)로 변환할 수 없습니다.
+C:\Users\GYUHA LEE\Documents\GitHub\OOP_24-2\실습문제 풀이\pointerAndReference\pointerAndReference.cpp(236,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.

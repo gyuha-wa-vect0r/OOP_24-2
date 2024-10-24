@@ -33,6 +33,60 @@ void ex1_4() {
 	int count = 0;
 	cout << "문자들을 입력하라(100개 미만)." << endl;
 
+	cin.getline(c, 100);
+	for (int i = 0; i < 100; i++) {
+		if (c[i] == 'x') { count++; }
+	}
 
 	cout << 'x' << "의 개수는 " << count << endl;
+}
+
+void ex1_5() {
+	char password1[100], password2[100];
+	cout << "새 암호를 입력하세요 >> ";
+	cin >> password1;
+	cout << "새 암호를 다시 한번 입력하세요 >> ";
+	cin >> password2;
+	
+	int count = 0;
+	for (int i = 0; i < 100; i++) {
+		if (password1[i] == password2[i]) {
+			count++;
+		}
+	}
+	if (count == 100) { cout << "같습니다." << endl; }
+	else { cout << "같지 않습니다." << endl; }
+}
+
+void ex1_6() {
+	char name[100];
+	char address[100];
+	int age;
+
+	cout << "이름은?";
+	cin.getline(name, 100);
+	cout << "주소는?";
+	cin.getline(address, 100);
+	cout << "나이는?";
+	cin >> age;
+
+	cout << name << ". " << address << ". " << age << "세" << endl;
+}
+
+// 실습 1-7
+namespace KIM {
+	float area(float r) {
+		return 3.14 * r * r;
+	}
+}
+namespace KANG {
+	float area(float x, float y) {
+		return x * y;
+	}
+}
+void main()
+{
+	float A = KIM::area(10.0);
+	float B = KANG::area(2, 3);
+	cout << A << " / " << B << endl;
 }

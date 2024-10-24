@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\inprovedFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1216A-7B03-4270-BAD2-F6A43D554AA2}|inprovedFunction.vcxproj|C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\inprovedFunction\\improvedFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27C1216A-7B03-4270-BAD2-F6A43D554AA2}|inprovedFunction.vcxproj|solutionrelative:improvedFunction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "improvedFunction.cpp",
+              "DocumentMoniker": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\inprovedFunction\\improvedFunction.cpp",
+              "RelativeDocumentMoniker": "improvedFunction.cpp",
+              "ToolTip": "C:\\Users\\GYUHA LEE\\Documents\\GitHub\\OOP_24-2\\\uC2E4\uC2B5\uBB38\uC81C \uD480\uC774\\inprovedFunction\\improvedFunction.cpp",
+              "RelativeToolTip": "improvedFunction.cpp",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:08:51.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

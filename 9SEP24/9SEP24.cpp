@@ -48,17 +48,18 @@ namespace KANG {
 
 int sep09_2() {
 
-	float A = KIM::area(5.0); // KIM 공간에 있는 area 함수 이용
-	float B = KANG::area(5.0); // KANG 공간에 있는 area 함수 이용
-
-	cout << A << " / " << B << endl;
-
 	int width, height; // 너비와 높이
 	cout << "너비와 높이를 입력하세용 : ";
 	cin >> width >> height;
 	cout << "너비는 " << width << endl;
 	cout << "높이는 " << height << endl;
 
+	float A = KIM::area(width); // KIM 공간에 있는 area 함수 이용
+	float B = KANG::area(height); // KANG 공간에 있는 area 함수 이용
+
+	cout << A << " / " << B << endl;
+
+	
 	return 0;
 }
 
