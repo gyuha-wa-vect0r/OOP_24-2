@@ -21,7 +21,7 @@ public:
 	}
 	bool isSquare() {
 		return width == height; 
-		// return¶§ ¹Ù·Î Á¶°Ç ³Ö¾îµµ 0 or 1·Î ¸®ÅÏµÊ
+		// returnë•Œ ë°”ë¡œ ì¡°ê±´ ë„£ì–´ë„ 0 or 1ë¡œ ë¦¬í„´ë¨
 	}
 };
 
@@ -29,9 +29,9 @@ void ex5_1() {
 	Rectangle rect1;
 	Rectangle rect2(3, 5);
 	Rectangle rect3(3);
-	if (rect1.isSquare()) cout << "rect1Àº Á¤»ç°¢ÇüÀÌ´Ù." << endl;
-	if (rect2.isSquare()) cout << "rect2´Â Á¤»ç°¢ÇüÀÌ´Ù." << endl;
-	if (rect3.isSquare()) cout << "rect3´Â Á¤»ç°¢ÇüÀÌ´Ù." << endl;
+	if (rect1.isSquare()) cout << "rect1ì€ ì •ì‚¬ê°í˜•ì´ë‹¤." << endl;
+	if (rect2.isSquare()) cout << "rect2ëŠ” ì •ì‚¬ê°í˜•ì´ë‹¤." << endl;
+	if (rect3.isSquare()) cout << "rect3ëŠ” ì •ì‚¬ê°í˜•ì´ë‹¤." << endl;
 }
 
 
@@ -39,32 +39,32 @@ void ex5_1() {
 class Oval {
 public:
 	int width;
-	int height; // Á¤¼ö°ªÀÇ »ç°¢Çü ³Êºñ¿Í ³ôÀÌ¸¦ °¡Áö´Â width, height º¯¼ö ¸â¹ö
-	Oval() { // ³Êºñ¿Í ³ôÀÌ¸¦ 1·Î ÃÊ±âÈ­ÇÏ´Â ¸Å°³º¯¼ö ¾ø´Â »ı¼ºÀÚ
+	int height; // ì •ìˆ˜ê°’ì˜ ì‚¬ê°í˜• ë„ˆë¹„ì™€ ë†’ì´ë¥¼ ê°€ì§€ëŠ” width, height ë³€ìˆ˜ ë©¤ë²„
+	Oval() { // ë„ˆë¹„ì™€ ë†’ì´ë¥¼ 1ë¡œ ì´ˆê¸°í™”í•˜ëŠ” ë§¤ê°œë³€ìˆ˜ ì—†ëŠ” ìƒì„±ì
 		width = 1;
 		height = 1;
 	}
-	Oval(int w, int h) { // ³Êºñ¿Í ³ôÀÌ°ªÀ» ¸Å°³º¯¼ö·Î ¹Ş´Â »ı¼ºÀÚ
+	Oval(int w, int h) { // ë„ˆë¹„ì™€ ë†’ì´ê°’ì„ ë§¤ê°œë³€ìˆ˜ë¡œ ë°›ëŠ” ìƒì„±ì
 		width = w;
 		height = h;
 	}
-	int getWidth() { //Å¸¿øÀÇ ³Êºñ¸¦ ¸®ÅÏÇÏ´Â getWidth() ÇÔ¼ö¸â¹ö
-		return width; // ¸» ±×´ë·Î Å¸¿øÀÇ ³Êºñ¸¦ ¸®ÅÏ...
+	int getWidth() { //íƒ€ì›ì˜ ë„ˆë¹„ë¥¼ ë¦¬í„´í•˜ëŠ” getWidth() í•¨ìˆ˜ë©¤ë²„
+		return width; // ë§ ê·¸ëŒ€ë¡œ íƒ€ì›ì˜ ë„ˆë¹„ë¥¼ ë¦¬í„´...
 	}
-	int getHeight() { //Å¸¿øÀÇ ³ôÀÌ¸¦ ¸®ÅÏÇÏ´Â getHeight() ÇÔ¼ö¸â¹ö
-		return height; // ¸» ±×´ë·Î Å¸¿øÀÇ ³ôÀÌ¸¦ ¸®ÅÏ...
+	int getHeight() { //íƒ€ì›ì˜ ë†’ì´ë¥¼ ë¦¬í„´í•˜ëŠ” getHeight() í•¨ìˆ˜ë©¤ë²„
+		return height; // ë§ ê·¸ëŒ€ë¡œ íƒ€ì›ì˜ ë†’ì´ë¥¼ ë¦¬í„´...
 	}
-	void set(int w, int h) { //Å¸¿øÀÇ ³Êºñ¿Í ³ôÀÌ¸¦ º¯°æÇÏ´Â set(int w, int h) ÇÔ¼ö¸â¹ö
+	void set(int w, int h) { //íƒ€ì›ì˜ ë„ˆë¹„ì™€ ë†’ì´ë¥¼ ë³€ê²½í•˜ëŠ” set(int w, int h) í•¨ìˆ˜ë©¤ë²„
 		width = w;
 		height = h;
 	}
-	void show() { //Å¸¿øÀÇ ³Êºñ¿Í ³ôÀÌ¸¦ È­¸é¿¡ Ãâ·ÂÇÏ´Â show() ÇÔ¼ö¸â¹ö
+	void show() { //íƒ€ì›ì˜ ë„ˆë¹„ì™€ ë†’ì´ë¥¼ í™”ë©´ì— ì¶œë ¥í•˜ëŠ” show() í•¨ìˆ˜ë©¤ë²„
 		cout << "Width = " << width << ", Height = " << height << endl;
 	}
-	~Oval() { // width¿Í height¸¦ Ãâ·ÂÇÏ´Â ¼Ò¸êÀÚ
-		cout << "Oval ¼Ò¸ê : " << width << ", " << height << endl;
+	~Oval() { // widthì™€ heightë¥¼ ì¶œë ¥í•˜ëŠ” ì†Œë©¸ì
+		cout << "Oval ì†Œë©¸ : " << width << ", " << height << endl;
 	}
-}; // ¿Í ¹«ÀÛÁ¤ int³ª void·Î »ı°¢ÇÏÁö ¸»±æ... ¸®ÅÏ°ª ¿©ºÎ ¹İµå½Ã µûÁö±â!!! ±×¸®°í class ³¡¿¡ }; Ã¼Å© ²À ÇÏ½Ã¿À!!!
+}; // ì™€ ë¬´ì‘ì • intë‚˜ voidë¡œ ìƒê°í•˜ì§€ ë§ê¸¸... ë¦¬í„´ê°’ ì—¬ë¶€ ë°˜ë“œì‹œ ë”°ì§€ê¸°!!! ê·¸ë¦¬ê³  class ëì— }; ì²´í¬ ê¼­ í•˜ì‹œì˜¤!!!
 
 void ex5_2() {
 	Oval a, b(3, 4);
@@ -77,10 +77,10 @@ void ex5_2() {
 class Intenger {
 public:
 	int innnnnt;
-	Intenger(int n) {
+	inline Intenger(int n) {
 		innnnnt = n;
 	}
-	Intenger(string m) {
+	inline Intenger(string m) {
 		innnnnt = stoi(m); //string to int -> s to i -> stoi()
 	}
 	inline int get() {
@@ -96,18 +96,18 @@ public:
 
 void ex5_3() {
 	Intenger n(30);
-	cout << n.get() << ' '; // 30 Ãâ·Â
+	cout << n.get() << ' '; // 30 ì¶œë ¥
 	n.set(50);
-	cout << n.get() << ' '; // 50 Ãâ·Â
+	cout << n.get() << ' '; // 50 ì¶œë ¥
 	Intenger m("300");
-	cout << m.get() << ' '; // 300 Ãâ·Â
-	cout << m.isEven(); // true(Á¤¼ö·Î 1) Ãâ·Â
+	cout << m.get() << ' '; // 300 ì¶œë ¥
+	cout << m.isEven(); // true(ì •ìˆ˜ë¡œ 1) ì¶œë ¥
 }
 
 // 5-4
-#include "add.h" // -> ½ÎÁ¦ Çì´õ ±Ü¾î¿Ã¶§´Â "" ¾È¿¡ ÆÄÀÏ¸í ¤¡¤¡
+#include "add.h" // -> ì‹¸ì œ í—¤ë” ê¸ì–´ì˜¬ë•ŒëŠ” "" ì•ˆì— íŒŒì¼ëª… ã„±ã„±
 /* to add.h
-class Adder { // µ¡¼À ¸ğµâ Å¬·¡½º
+class Adder { // ë§ì…ˆ ëª¨ë“ˆ í´ë˜ìŠ¤
 	int op1, op2;
 public:
 	Adder(int a, int b);
@@ -125,7 +125,7 @@ int Adder::process() {
 */
 
 /* to add.h
-class Calculator { // °è»ê±â Å¬·¡½º
+class Calculator { // ê³„ì‚°ê¸° í´ë˜ìŠ¤
 public:
 	void run();
 };
@@ -133,15 +133,15 @@ public:
 
 /* to cal.cpp
 void Calculator::run() {
-	cout << "µÎ °³ÀÇ ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä>>";
+	cout << "ë‘ ê°œì˜ ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”>>";
 	int a, b;
-	cin >> a >> b; // Á¤¼ö µÎ °³ ÀÔ·Â
-	Adder adder(a, b); // µ¡¼À±â »ı¼º
-	cout << adder.process(); // µ¡¼À °è»ê
+	cin >> a >> b; // ì •ìˆ˜ ë‘ ê°œ ì…ë ¥
+	Adder adder(a, b); // ë§ì…ˆê¸° ìƒì„±
+	cout << adder.process(); // ë§ì…ˆ ê³„ì‚°
 }
 */
 
 int ex5_4() {
-	Calculator calc; // calc °´Ã¼ »ı¼º
-	calc.run(); // °è»ê±â ½ÃÀÛ
+	Calculator calc; // calc ê°ì²´ ìƒì„±
+	calc.run(); // ê³„ì‚°ê¸° ì‹œì‘
 }
