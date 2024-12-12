@@ -1,0 +1,4 @@
+﻿  sangsok.cpp
+D:\학교\2학년\2학기\정보통신공학 전공\객체지향 프로그래밍(C++)\실습문제 풀이\기말고사\sangsok\sangsok.cpp(44,8): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+D:\학교\2학년\2학기\정보통신공학 전공\객체지향 프로그래밍(C++)\실습문제 풀이\기말고사\sangsok\sangsok.cpp(178,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  sangsok.vcxproj -> D:\학교\2학년\2학기\정보통신공학 전공\객체지향 프로그래밍(C++)\실습문제 풀이\기말고사\sangsok\x64\Debug\sangsok.exe
